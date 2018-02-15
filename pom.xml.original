@@ -50,7 +50,6 @@
 
     </dependencies>
 
-
     <build>
         <plugins>
             <plugin>
@@ -60,29 +59,4 @@
         </plugins>
     </build>
 
-</pr
-
-
-
-
-
-
-
-
-
-
-
-
-    }
-
-
-
-
-
-
-
-
-
-
-
-
+</project>
